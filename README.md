@@ -1,0 +1,2 @@
+# BotW-svgmap
+BotW.svg
